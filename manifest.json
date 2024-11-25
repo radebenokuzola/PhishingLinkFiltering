@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "Phishing Link Blocker",
   "version": "1.0",
+  "description": "Blocks phishing links using a custom API.",
   "permissions": [
     "webRequest",
     "webRequestBlocking",
