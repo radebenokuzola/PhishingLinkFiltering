@@ -4,7 +4,7 @@ This Chrome extension automatically detects and blocks phishing links using a cu
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/phishing-link-blocker.git`
+1. Clone the repository: `[git clone https://github.com/yourusername/phishing-link-blocker.git](https://github.com/radebenokuzola/PhishingLinkFiltering.git)`
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" in the top right corner.
 4. Click "Load unpacked" and select the cloned repository folder.
